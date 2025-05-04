@@ -1,7 +1,7 @@
 const images = [
-    "images/img1.jpg",
-    "images/img2.webp",
-    "images/img3.jpg",
+    "img1.jpg",
+    "img2.webp",
+    "img3.jpg",
     
   ];
   
